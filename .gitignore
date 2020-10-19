@@ -1,0 +1,10 @@
+# VirtualEnv packages (use requirements.txt to install all required dependencies)
+/venv/
+
+# PyCharm files
+/.idea/
+*.log
+
+# python bytecode files
+/__pycache__/
+*.py[cod]
