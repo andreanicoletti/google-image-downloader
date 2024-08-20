@@ -1,5 +1,7 @@
 # google-image-downloader
-A simple python script to download images from Google
+A simple python script to download images from Google.
+
+_N.B. The repository is archived and the script, as of August 2024, is not working anymore._
 
 ## License
 ```
